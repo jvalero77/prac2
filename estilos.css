@@ -1,0 +1,61 @@
+
+
+header,footer{
+
+	background-color: #0076a8;
+	text-align: center;
+	font-size: 30px;
+	padding-top: .75rem;
+    padding-bottom: .75rem;
+
+}
+
+p,h2{
+	text-align: center;
+	padding-top: .75rem;
+    padding-bottom: .75rem;
+}
+.top,.low,.infotext{
+	text-align: left;
+ 	font-size: 20px;
+ 	font-family: "Lucida Console", "Courier New", monospace;
+ 	padding-top: .75rem;
+    padding-bottom: .75rem;
+
+}
+
+.title{
+	padding-top: .75rem;
+	font-family: 'Rubik', sans-serif;
+	font-size: 30px;
+}
+.undertitle,.overform{
+	margin-top: .25rem;
+	padding-top: .75rem;
+    padding-bottom: .80rem;
+    outline-style: solid;
+    font-family: 'Noto Sans JP', sans-serif;
+    outline-color: #0076a8;
+    outline-width: .3rem;
+
+}
+.infoartista{
+	display: none;
+	margin-top: .25rem;
+	padding-top: .75rem;
+    padding-bottom: .80rem;
+    outline-style: solid;
+    font-family: 'Noto Sans JP', sans-serif;
+    outline-color: #0076a8;
+    outline-width: .3rem;
+}
+
+.undertitle .container{
+	padding-top: :25px;
+	padding-bottom: 25px;
+}
+
+.formulario{
+	padding-right: .75rem;
+    padding-left: .75rem;
+}
